@@ -99,7 +99,6 @@
 - Reviewing architectural and security implications beyond automated checks
 - Prioritizing technical debt remediation alongside new feature development
 - Validating whether implemented solutions meet functional and business requirements
-**Tool/Workflow:**
 
 **Tool/Workflow:**
 **AI Tool - Code Quality Measurement Assistant**
