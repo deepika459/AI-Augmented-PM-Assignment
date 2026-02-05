@@ -120,15 +120,23 @@
 	
 **Notion AI has Generated Below Data:**
 	
-	Core Components - components to be considered
-	Notification Types - Helping points to consider while implementing code
-	Technical Architecture	- Highlighting what System Design to choose
-	Database Schema - Ensuring data requirements
-	User Flows - Shows actual flow of requests
-	Implementation Considerations - Ensuring security, scalability, alert system, cost optimization
-	Rollout Strategy -  Decision planning during failures
-	Success Metrics -  Showing what success means
-	[https://www.notion.so/Healthcare-Appointment-Scheduling-Notification-System-ab0bf33842cc4b36b844c84952c9f647?t=2fe1b348a01480b09f8200a90e3d541a](https://www.notion.so/Healthcare-Appointment-Scheduling-Notification-System-ab0bf33842cc4b36b844c84952c9f647?source=copy_link)
+Core Components - components to be considered
+
+Notification Types - Helping points to consider while implementing code
+
+Technical Architecture	- Highlighting what System Design to choose	
+
+Database Schema - Ensuring data requirements	
+
+User Flows - Shows actual flow of requests	
+
+Implementation Considerations - Ensuring security, scalability, alert system, cost optimization	
+
+Rollout Strategy -  Decision planning during failures	
+
+Success Metrics -  Showing what success means
+
+[https://www.notion.so/Healthcare-Appointment-Scheduling-Notification-System-ab0bf33842cc4b36b844c84952c9f647?t=2fe1b348a01480b09f8200a90e3d541a](https://www.notion.so/Healthcare-Appointment-Scheduling-Notification-System-ab0bf33842cc4b36b844c84952c9f647?source=copy_link)
 
 **How Would I Use It in the HealthSync Project?**
  
