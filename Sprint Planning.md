@@ -1,14 +1,17 @@
 
-### Burndown charts and Velocity report
+### Burndown Charts and Velocity Report
 Velocity says what ever the points we have allocated to the team in last sprint was correct or over allocated and can give the average measure of delivery points that can be allocated to the team.
 we can see every sprint points and can measure the average of all the points, which says how much points we can allot to the upcoming sprint, we have some figures around which we can allot to the team.
-Sprint 1   18 points completed
-Sprint 2   22 points completed
-Sprint 3  20 points completed
+
+Sprint 1-   18 points completed
+
+Sprint 2-   22 points completed
+
+Sprint 3-  20 points completed
 
 so the average will be Average = 20 points
 That means:  
-Your team can safely take ~20 story points every sprint.
+Your team can safely take -20 story points every sprint.
 
 #### Velocity measures the team’s average delivery capacity across sprints, while the burndown chart tracks remaining work within a single sprint to show whether the team is on schedule.
 
@@ -59,7 +62,7 @@ Project - Music academy Website
 • Monitoring stable for 7 days
 • Stakeholder approval received
 
-Creating two User Stories.
+## Creating two User Stories.
 
 1. Work on UI design Finalization -> user story - points
 	Description
@@ -70,11 +73,12 @@ Creating two User Stories.
 			- Finalize the no of screens 
 2.  Work on Documenting the legacy code base- both for Front end and backend.-> user story
  - Backend to Document the Legacy codebase-> task
-	 Description
+
+Description
 		Notes preparation, listing important web service calls, Database calls if included etc, identifying request and response from the legacy code
 - Frontend to analyse and document the legacy codebase. -> task
-		Description
+
+  Description
 		 Frontend team document the legacy codebase. 
 
-if burn down is not progrssing incrementally downward(staircase)
-The sprint completed successfully, but work was closed late in the sprint. The flat burndown followed by a steep drop indicates stories remained in progress and were only marked done near the end, reducing sprint transparency and increasing delivery risk.
+Note: if burn down is not progrssing incrementally downward(staircase), it will be difficult to track the correct progress.
