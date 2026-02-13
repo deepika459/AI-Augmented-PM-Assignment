@@ -18,7 +18,7 @@ Your team can safely take -20 story points every sprint.
 Project - Music academy Website
 #### Epic data
 ## Scope
-• Analyze legacy PHP (Yii2 + jQuery + Bootstrap) implementation
+• Analyze legacy PHP (Yii2 + jQuery + Bootstrap) code implementation
 • Identify business logic, database calls, and web service dependencies
 • Design API contract between frontend and backend
 • Develop backend APIs in NestJS
