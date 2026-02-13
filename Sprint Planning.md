@@ -16,7 +16,7 @@ Your team can safely take -20 story points every sprint.
 #### Velocity measures the team’s average delivery capacity across sprints, while the burndown chart tracks remaining work within a single sprint to show whether the team is on schedule.
 
 Project - Music academy Website
-#### Epic data
+#### Epic description for jira
 ## Scope
 • Analyze legacy PHP (Yii2 + jQuery + Bootstrap) implementation
 • Identify business logic, database calls, and web service dependencies
