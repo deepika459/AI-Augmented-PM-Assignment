@@ -146,8 +146,8 @@ Reduce waiting time at clinic and avoid missed appointments.
     
 - Validate overlapping timings
 
-**User Story 2 : Patient books appointment (MEDIUM - Should Have)
-**
+**User Story 2 :** **Patient books appointment (MEDIUM - Should Have)**
+
 
 1. **Description:** Patient can view available appointment slots and select a suitable time so that they can visit the doctor without waiting.
 
