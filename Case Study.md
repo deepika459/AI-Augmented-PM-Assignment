@@ -106,5 +106,5 @@ QA Team (2 person) (10 days total)
 1. If new engineers- legacy code understanding will require time like how api responses are checked, how deployment is done, being a monolithic app complex code base.
 2. Code complexity in terms of Database integration, client approvals, tools licensing since modernization required.
 
-
+**Loom Recording**
 https://www.loom.com/share/ea758343e9f74b8eb0bef9157c94d190
