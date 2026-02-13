@@ -136,7 +136,7 @@ Reduce waiting time at clinic and avoid missed appointments.
     
 - Set start time and end time (for eg:  10 AM – 5 PM)
     
-- Define consultation duration (for e.g., 15 min per patient)
+- Define consultation duration (for e.g: 15 min per patient)
     
 - Auto-generate appointment slots
     
