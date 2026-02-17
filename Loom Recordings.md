@@ -1,4 +1,5 @@
 https://www.loom.com/share/ea758343e9f74b8eb0bef9157c94d190
+
 What's included in this recording:
 1. Discussed the Case study
 2. Jira ticket creations 
@@ -7,6 +8,7 @@ What's included in this recording:
 5. potential risks
 
 https://www.loom.com/share/0c572ed836d64420baa8278949f1e029
+
 What's included in this recording.
 1. Creating User Story Space (project space)
 2. Subtask Creation Process (Epic->user story->tasks/subtasks)
