@@ -18,8 +18,8 @@
 4. [Transition In-Progress Rule](https://kdeepika459.atlassian.net/jira/software/projects/PDA/settings/automation#/rule/019c6ba0-11e7-7c5e-a190-5c16fae92a04) (New Rule Created From scratch)
 5. [When all child work items are completed → then close parent](https://kdeepika459.atlassian.net/jira/software/projects/PDA/settings/automation#/rule/019c6ae9-699e-7551-9be8-64fef22bef18) (PRE Defined Rule)
 
- 
-![[Pasted image 20260217185151.png]]
+ ![](Pasted%20image%2020260217185151.png)
+
 **High Level Over-view**
 Rule 1:  [Transition In-Progress Rule](https://kdeepika459.atlassian.net/jira/software/projects/PDA/settings/automation#/rule/019c6ba0-11e7-7c5e-a190-5c16fae92a04)
 
