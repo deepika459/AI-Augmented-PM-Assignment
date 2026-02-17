@@ -1,5 +1,6 @@
 
 **Presenter:** Deepika Kumari
+
 **Context Project :** Schedula (Salon Booking App)
 
 As a Project Manager, things matters in todays time.
@@ -10,20 +11,24 @@ As a Project Manager, things matters in todays time.
 ### PM Messy v/s Clear Answer
 ### **Exercise** 1
 **Stakeholders Asked :** "Fix the issue ASAP and update me"
+
 **Issue/bug :** "Customer can book past closing time"
 
 **Messy PM answer** 
+
 Just work on the issue and let me know once completed.
-	Shows: 
-		- No module identified
-		- No expected behavior
-		- No priority 
-		- No verification method
-		- Dev's will be guessing
-	Results:
-		- Re-work
-		- Follow ups
-		- Delays
+	
+Shows: 
+- No module identified
+- No expected behavior
+- No priority 
+- No verification method
+- Dev's will be guessing
+
+Results:
+- Re-work
+- Follow ups
+- Delays
 	
 **Clear PM answer**
 
@@ -56,6 +61,7 @@ Users should not be able to create a booking after 8:00 PM.
 
 ## Decision Making Example
 Based on the problem below make decisions what needs to be done step wise.
+
 **Problem:**  
 Your appointment-booking application is ready for launch in **3 weeks**.
 
@@ -74,6 +80,7 @@ But QA discovered two major things:
 ### Exercise 2 (Decision Making)
 
 **Step 1 :** Defining a problem
+
 **Problem:** 
 We must decide which feature to launch in the upcoming release because engineers capacity and timeline do not allow both to be delivered safely .
 
@@ -93,6 +100,5 @@ Option:
 
 Option 2, Do WhatsApp reminder feature now
 Reason: Launch with WhatsApp reminders first and postpone UPI to the next release.  
-The reminder feature directly supports the core business goal —> ensuring customers attend booked appointments and reducing no-shows, which impacts client revenue and satisfaction.  
-Users can still complete payments using existing card options, so the booking flow is not blocked.  
+The reminder feature directly supports the core business goal —> ensuring customers attend booked appointments and reducing no-shows, which impacts client revenue and satisfaction. Users can still complete payments using existing card options, so the booking flow is not blocked.  
 Delivering both features together risks launch instability, while delivering reminders first improves launch success and customer retention.
