@@ -1,5 +1,7 @@
 **triggers** - kick off the rule
+
 **conditions** - that refine the rule
+
 **actions** - perform tasks in your site
 
 **Automation Tasks Applied and Tested**
