@@ -21,15 +21,19 @@
  ![](attachment/Pasted%20image%2020260217185151.png)
 
 **High Level Over-view**
+
 Rule 1:  [Transition In-Progress Rule](https://kdeepika459.atlassian.net/jira/software/projects/PDA/settings/automation#/rule/019c6ba0-11e7-7c5e-a190-5c16fae92a04)
 
-![[attachment/Pasted image 20260217181336.png]]
+![](attachment/Pasted%20image%2020260217181336.png)
 
 2. Rule 2:  [Comment Updates](https://kdeepika459.atlassian.net/jira/software/projects/PDA/settings/automation#/rule/019c6b02-fce1-784f-a177-49466762852d) 
+	
 	When comments updated, email received as part of comment update automation.
 
-![[attachment/Pasted image 20260217183017.png]]
+![](attachment/Pasted%20image%2020260217183017.png)
+
 **Path to create a Automation Rule for transition(child->done, move Parent->done)**
+
 Rule 3: [Transition-Done-Rule](https://kdeepika459.atlassian.net/jira/software/projects/PDA/settings/automation#/rule/019c6bbe-397e-731c-9bd9-7453e880aaec)
 1. Select work item
 2. Work item transitioned
@@ -46,7 +50,8 @@ Rule 3: [Transition-Done-Rule](https://kdeepika459.atlassian.net/jira/software/p
 	      Action: Transition parent → Done
 ```
 
-![[attachment/Pasted image 20260217205351.png]]
+
+![](attachment/Pasted%20image%2020260217205351.png)
 
 
 ## Jira Story Enhancement
