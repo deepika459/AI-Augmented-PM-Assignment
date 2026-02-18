@@ -184,6 +184,9 @@ Design → PM Approval → Dev → QA
 
 ## CRISIS 3 RESPONSE
 
+### Problem Statement:
+The booking system currently allows invalid appointment slots (closed hours, overlaps, holidays), which risks an incorrect live demo tomorrow and could affect launch reliability.
+
 #### 5 Whys
 
 **Why 1:** Why are invalid bookings allowed?  
